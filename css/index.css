@@ -268,11 +268,11 @@
 	border: 0;
 }
 .dibu-row-right{
-	height: 240px;
+	height: auto;
 	/* background: red; */
 }
 .dibu-shuru2{
-	height: 240px;
+	height: auto;
 	/* background: blue; */
 }
 .dibu-shuru2-1{
@@ -404,6 +404,9 @@
 	}
 	.our-portfolios{
 		height: 100%;
+	}
+	.dibu-shuru2{
+		margin-top: 50px;
 	}
 }
 @media screen and (min-width: 768px) and (max-width: 992px){
